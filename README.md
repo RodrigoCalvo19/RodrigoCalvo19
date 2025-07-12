@@ -72,9 +72,8 @@ E-commerce para mostrar productos de una pastelería local.
 
 ## 📫 Contacto
 
-- ✉️ Email: [tuemail@ejemplo.com](mailto:tuemail@ejemplo.com)
+- ✉️ Email: [calvomeridarodrigo@gmail.com](calvomeridarodrigo@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
-- 🌐 Portfolio: [tuportfolio.com](https://tuportfolio.com) _(opcional)_
 
 ---
 
