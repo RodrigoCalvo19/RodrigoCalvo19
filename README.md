@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy [Tu Nombre]
+# 👋 ¡Hola! Soy Rodrigo
 
 Soy un desarrollador de software apasionado por la tecnología, la programación y el aprendizaje continuo. Me especializo en el desarrollo **Full Stack**, trabajando tanto en frontend como backend, y disfruto creando soluciones eficientes y escalables.
 
