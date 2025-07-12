@@ -55,7 +55,7 @@ Aplicación web para automatizar el envío de emails con facturas y citas médic
 
 ### 🎂 Sweet Cake - Web de pastelería
 E-commerce para mostrar productos de una pastelería local.  
-🔗 [https://github.com/tuusuario/sweet-cake](https://github.com/RodrigoCalvo19/sweet-cake)
+🔗 [https://github.com/RodrigoCalvo19/sweet-cake](https://github.com/RodrigoCalvo19/sweet-cake)
 
 - Frontend: Vue.js
 - Backend: Strapi (Node.js CMS)
