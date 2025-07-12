@@ -26,6 +26,8 @@ Soy un desarrollador de software apasionado por la tecnología, la programación
 ![C#](https://img.shields.io/badge/-CSharp-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![.NET Core](https://img.shields.io/badge/-.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/-CSharp-239120?style=flat-square&logo=java&logoColor=w)
+
 
 ### Base de datos
 ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
