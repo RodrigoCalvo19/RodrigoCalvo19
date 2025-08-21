@@ -42,27 +42,6 @@ Soy un desarrollador de software apasionado por la tecnología, la programación
 
 ---
 
-## 📂 Proyectos destacados
-
-### 🧾 Gestión de facturas y emails
-Aplicación web para automatizar el envío de emails con facturas y citas médicas.  
-🔗 [Repositorio privado / bajo NDA]
-
-- Frontend: Angular + PrimeNG
-- Backend: C# con .NET Core
-- Base de datos: SQL Server
-- Integración con AWS (S3 y pre-signed URLs)
-
-### 🎂 Sweet Cake - Web de pastelería
-E-commerce para mostrar productos de una pastelería local.  
-
-
-- Frontend: Vue.js
-- Backend: Strapi (Node.js CMS)
-- Funcionalidades: catálogo, panel de administración, rutas dinámicas
-
----
-
 ## 📫 Contacto
 
 - ✉️ Email: [calvomeridarodrigo@gmail.com](calvomeridarodrigo@gmail.com)
